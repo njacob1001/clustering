@@ -10,4 +10,4 @@ Se recomienda ejecutar este proyecto directamente en Google Colab sin necesidad 
 
 Acceda a **Google colab** con el siguiente botón para abrir el notebook:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/njacob1001/etl-project/blob/main/notebooks/aprendizaje_automatico.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/njacob1001/clustering/blob/main/notebooks/aprendizaje_automatico.ipynb)
